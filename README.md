@@ -11,7 +11,7 @@ Fuchsia OS 中文社区
 
 :point_right: 访问平台
 
-- 洛书 Lorbook: https://fuchsia-os.com
+- 网站 https://fuchsia-os.com
 
 ## 翻译文章列表
 
