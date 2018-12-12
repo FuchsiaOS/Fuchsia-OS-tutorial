@@ -12,7 +12,11 @@ Fuchsia OS 中文社区
 :point_right: 访问平台
 
 - 网站 https://fuchsia-china.com
-- [Fuchsia OS 简明编译指南](https://fuchsia-china.com/guide-of-fuchsia-os-compilation/)
+- 论坛 https://forum.fuchsia-china.com
+
+:point_right: 教程列表
+
+ - [Fuchsia OS 简明编译指南](https://fuchsia-china.com/guide-of-fuchsia-os-compilation/)
 
 ## 翻译文章列表（已完成）
 
