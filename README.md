@@ -24,6 +24,10 @@ Fuchsia OS 中文社区
 * [x] Bloomberg：[Project ‘Fuchsia’: Google Is Quietly Working on a Successor to Android](https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism)
 * [x] 
 
+## Flutter 文章列表
+
+* [x] [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
+
 
 ## 加入交流
 
