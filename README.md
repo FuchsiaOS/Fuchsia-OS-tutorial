@@ -22,7 +22,9 @@ Fuchsia OS 中文社区
 ## 重要报道列表
 
 * [x] Bloomberg：[Project ‘Fuchsia’: Google Is Quietly Working on a Successor to Android](https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism)
-* [x] 
+* [x] TechRadar：[Google Fuchsia release date, news and rumors](https://www.techradar.com/sg/news/google-fuchsia)
+* [x] DigitalTrends：[Google’s Fuchsia OS: Everything you need to know](https://www.digitaltrends.com/mobile/google-fuchsia-os-news/)
+* [x] ZDNET：[Google Fuchsia: Here's what the NSA knows about it](https://www.zdnet.com/article/google-fuchsia-heres-what-the-nsa-knows-about-it/)
 
 ## Flutter 文章列表
 
