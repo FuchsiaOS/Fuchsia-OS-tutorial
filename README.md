@@ -16,7 +16,7 @@ Fuchsia OS 中文社区
 
 ## 翻译文章列表
 
-* [x] 
+* [x] https://fuchsia-china.com/google-brought-fuchsia-demo-to-unplugfest/
 * [x] 
 
 ## 重要报道列表
