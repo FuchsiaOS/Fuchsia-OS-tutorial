@@ -2,7 +2,7 @@
 <h1 align="center"> Fuchsia OS 学习资源及教程汇总</h1>
 <p align="center">Fuchsia OS 学习资料&amp; 教程汇总 </p>
 
-本教程最初设想是从 Fuchsia OS 的几篇新闻开始，目标是翻译和撰写成体系的教程
+Fuchsia 是 Google 计划推出的全新开源操作系统，面向物联网设备。本教程最初设想是从 Fuchsia OS 的几篇新闻开始，目标是翻译和撰写成体系的教程
 
 ----
 
