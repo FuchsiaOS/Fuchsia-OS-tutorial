@@ -17,6 +17,7 @@ Fuchsia OS 中文社区
 :point_right: 教程列表
 
  - [Fuchsia OS 简明编译指南](https://fuchsia-china.com/guide-of-fuchsia-os-compilation/)
+ - [Ubuntu 18.04 编译 Zircon](https://forum.fuchsia-china.com/t/197)
 
 ## 翻译文章列表（已完成）
 
