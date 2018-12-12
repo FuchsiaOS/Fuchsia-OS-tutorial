@@ -19,6 +19,11 @@ Fuchsia OS 中文社区
 * [x] 
 * [x] 
 
+## 重要报道列表
+
+* [x] Bloomberg：[Project ‘Fuchsia’: Google Is Quietly Working on a Successor to Android](https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism)
+* [x] 
+
 
 ## 加入交流
 
