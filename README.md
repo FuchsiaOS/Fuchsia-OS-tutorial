@@ -39,6 +39,9 @@ Fuchsia OS 中文社区
 
 * [x] [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 
+### 社区贡献者列表
+
+* [x] [VicZ123](https://github.com/VicZ123)
 
 ### 加入交流
 
