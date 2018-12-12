@@ -41,7 +41,9 @@ Fuchsia OS 中文社区
 ## 加入交流
 
 - Telegram：https://t.me/FuchsiaOSzh
-- QQ 群：788645873
-- 微信群：
+- Fuchsia OS QQ 大群：788645873
+- Fuchsia 开发者社区QQ群：241234421
+- 微信群：微信群因其封闭性，无法直接添加，请添加用户： opensourceleslie 备注：Fuchsia OS 或者 Fuchsia 开发者，邀请加入对应的微信群
+![添加微信](https://fuchsia-china.com/wp-content/uploads/2018/11/wechat-qrcode-opensourceleslie-300x300.jpg)
 
 
