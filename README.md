@@ -43,6 +43,7 @@ Fuchsia OS 中文社区
 
 * [x] [VicZ123](https://github.com/VicZ123)
 * [x] [Arktische](https://github.com/Arkische)
+* [x] [hzcyf](https://github.com/hzcyf)
 * [x] [bootingman](https://github.com/bootingman)
 
 ### 加入交流
