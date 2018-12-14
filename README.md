@@ -45,6 +45,8 @@ Fuchsia OS 中文社区
 * [x] [Arktische](https://github.com/Arkische)
 * [x] [hzcyf](https://github.com/hzcyf)
 * [x] [firecckk](https://github.com/firecckk)
+* [x] [HugoFun](https://github.com/HugoFun)
+* [x] [659525](https://github.com/659525)
 * [x] [bootingman](https://github.com/bootingman)
 
 ### 加入交流
