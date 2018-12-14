@@ -14,7 +14,7 @@
 ![avatar][2]
 -----
 
-### Fuchsia OS的高级特性
+### Fuchsia OS的高级特性
 
 <!-- Fuchsia Graphical Interface
 The first thing you notice that when you log in then, Material Design is available in a big way. Google Fuchsia Operating System can use its own special renderer, Escher specializes in the shadow. Your notifications, Windows, buttons, dialog boxes, and create a more cleanly layered, providing a depth to your view. Further, Fuchsia currently offers two different layouts i.e., the mobile-centric design called Armadillo, and traditional desktops known as Capybara. Armadillo will drop the App Drawer and a shortcut model for a combined view of all Recent applications, Quick Settings, and Google Feed too. Capybara is still work in progress, using a taskbar that contains only time, a placeholder for quick settings, and something similar to the start button. 
@@ -27,7 +27,7 @@ Google Fuchsia OS is mainly designed to accommodate the Google Assistant. Moreov
 
 -->
 
-> ### Fuchsia 图像界面
+> ### Fuchsia 图像界面
 > #### 当你登陆系统后注意到的第一件东西是它宏大的Material Design。Fuchsi系统可以使用它自己独有的渲染器比如专注于阴影的Escher。你的通知，窗口，按钮，弹窗会创建在一个更清晰的图层中并提供视觉深度。更者，Fuchsia现在提供了俩种不同的图层，比如有叫做Armadillo那样以移动设备为中心的设计和Capybara那样传统的设计。Armadillo将放弃App Drawer还有那为了同时查看所有最近的应用程序，快速设置，Google Feed的快捷模型。Capybara仍在开发中，它有着仅包含时间的任务栏，用于快速设置的界面以及类似于开始按钮的东西。
 > ![avatar][3]
 > ### Fuchsia 是跨设备系统
