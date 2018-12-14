@@ -42,7 +42,7 @@ Fuchsia OS 中文社区
 ### 社区贡献者列表
 
 * [x] [VicZ123](https://github.com/VicZ123)
-* [x] [Arktische](https://github.com/Arkische)
+* [x] [Arktische](https://github.com/Arktische)
 * [x] [hzcyf](https://github.com/hzcyf)
 * [x] [firecckk](https://github.com/firecckk)
 * [x] [HugoFun](https://github.com/HugoFun)
