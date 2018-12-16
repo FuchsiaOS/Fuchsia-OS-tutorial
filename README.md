@@ -35,8 +35,9 @@ Fuchsia OS 中文社区
 * [x] DigitalTrends：[Google’s Fuchsia OS: Everything you need to know](https://www.digitaltrends.com/mobile/google-fuchsia-os-news/)
 * [x] ZDNET：[Google Fuchsia: Here's what the NSA knows about it](https://www.zdnet.com/article/google-fuchsia-heres-what-the-nsa-knows-about-it/)
 
-### https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/
-### https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
+### 翻译列表
+ - https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/
+ - https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
 
 ### Flutter 文章列表
 
