@@ -38,6 +38,8 @@ Fuchsia OS 中文社区
 ### 翻译列表
  - https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/
  - https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
+ - https://9to5google.com/2018/05/11/fuchsia-friday-fidl-is-the-rosetta-stone-of-fuchsia/
+ - https://9to5google.com/2018/02/09/fuchsia-friday-entities/
 
 ### Flutter 文章列表
 
