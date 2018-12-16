@@ -41,6 +41,7 @@ Fuchsia OS 中文社区
  - https://9to5google.com/2018/05/11/fuchsia-friday-fidl-is-the-rosetta-stone-of-fuchsia/
  - https://9to5google.com/2018/02/09/fuchsia-friday-entities/
  - https://9to5google.com/2018/04/06/fuchsia-friday-graphics-gaming-and-vr-oh-my/
+ - https://9to5google.com/2018/03/23/fuchsia-friday-maxwell/
 
 ### Flutter 文章列表
 
