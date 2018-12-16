@@ -40,6 +40,7 @@ Fuchsia OS 中文社区
  - https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
  - https://9to5google.com/2018/05/11/fuchsia-friday-fidl-is-the-rosetta-stone-of-fuchsia/
  - https://9to5google.com/2018/02/09/fuchsia-friday-entities/
+ - https://9to5google.com/2018/04/06/fuchsia-friday-graphics-gaming-and-vr-oh-my/
 
 ### Flutter 文章列表
 
