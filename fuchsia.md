@@ -64,6 +64,7 @@ Google I/O大会可能就是今后Fuchsia亮相的地方
 无论如何，当接近可能的发布日期时，请锁定该此页面上，我们会为您提供一些关于Fuchsia的重要信息。
 
 ![](https://cdn.mos.cms.futurecdn.net/Yzh9gjppGL6MBnWbE2QTVd-650-80.jpg)
+
 Fuchsia会是Android的终结者吗？
 
 ## Fuchsia对于Android和Chrome以及Windows和macOS有什么意义？
