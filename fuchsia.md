@@ -80,5 +80,6 @@ Fuchsia最终会意味着Android和Chrome的终结吗？在名义上，这确实
 有了Fuchsia，谷歌将成为微软和苹果公司的一个更强大的敌人，这对Android和Chromebook用户来说是一个非常诱人的选择。谁知道呢，或许这足以让人们从微软和Apple产品阵营中投入Fuchsia的怀抱。
 
 ***
-本文原作者：译者：原文链接
-出品：Fuchsia 中文社区
+本文原作者：Joe Osborne 译者：[Arktische](https://github.com/Arktische) ；校对：
+原文链接:https://www.techradar.com/sg/news/google-fuchsia 本文链接：
+
