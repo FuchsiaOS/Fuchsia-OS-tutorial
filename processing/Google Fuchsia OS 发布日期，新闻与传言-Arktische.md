@@ -83,4 +83,4 @@ Fuchsia最终会意味着Android和Chrome的终结吗？在名义上，这确实
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
 原作者：Joe Osborne； 译者：[Arktische](https://github.com/Arktische) ；校对：[bootingman](https://github.com/bootingman)      
 原文链接：https://www.techradar.com/news/google-fuchsia        
-本文链接：https://fuchsia-china.com/google-fuchsia-os-release-date-rumors/
+本文链接：https://fuchsia-china.com/google-fuchsia-os-rumors/
