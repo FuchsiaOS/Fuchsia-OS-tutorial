@@ -1,4 +1,3 @@
-original post :https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
 
 ![](https://9to5google.com/wp-content/uploads/sites/4/2018/09/chromium-fuchsia-header.jpg)
 
