@@ -1,6 +1,6 @@
 # 谷歌新操作系统 Fuchsia，你需要知道的都在这里
 
->>>Fuchisa 最终有望取代 Android，但这需要很多年才能达成。
+> Fuchisa 最终有望取代 Android，但这需要很多年才可能达成。
 
 Android 和 Chrome OS 是谷歌最为人熟知的两款操作系统，而现在该公司正在进行第三款操作系统的开发，这款新系统名字叫做 Fuchsia。该系统在去年第一次被人们发现时，仅仅能跳出一个简单的命令行。而现在，我们了解到了更多关于该系统的信息。
 
@@ -8,7 +8,7 @@ Fuchsia 看起来和包括 Android 在内的其他移动操作系统完全不同
 
 ## Fuchsia 究竟是什么？
 
-Fuchsia 与 Android 和 Chrome OS 这两款系统有点不同，它并不基于 Linux 内核，而是基于谷歌全新开发的一款名叫 Magenta 的内核（译者注： 该内核现已更名为Zircon）。根据谷歌提供的消息， Magenta 开发目标是成为同时适用于现代手机和现代个人电脑的一款系统内核，所以将来我们在智能手机中看到该系统也就不足为奇。此外，我们还不知道为什么的是，[谷歌甚至已经将来自苹果公司的编程语言 Swift 添加成为 Fuchsia 的开发语言](https://www.digitaltrends.com/computing/google-swift-fuchsia-os/)。
+Fuchsia 与 Android 和 Chrome OS 这两款系统有点不同，它并不基于 Linux 内核，而是基于谷歌全新开发的一款名叫 Magenta 的内核（译者注： 该内核现已更名为Zircon）。根据谷歌提供的消息， Magenta 开发目标是成为同时适用于现代手机和现代个人电脑的一款系统内核，所以将来我们在智能手机中看到该系统也就不足为奇。此外，我们还不知道为什么的是，谷歌甚至已经将来自苹果公司的编程语言 Swift 添加成为 Fuchsia 的开发语言。
 
 因为 Fuchsia 是使用能在 Android 上运行的 Flutter SDK 编写的，所以 Fuchsia 的大部分模块都可以在Android设备上运行。当前最新版本的 Fuchsia 似乎被称作为 Armadillo，它完全重新实现了一个主屏幕。根据*Ars Technica*的[测试](https://arstechnica.com/gadgets/2017/05/googles-fuchsia-smartphone-os-dumps-linux-has-a-wild-new-ui/)，该主屏幕基本上呈现为一个大的滚动列表，配置信息图片、日期、城市和电池余量图标等被放置在其中央。在该主屏幕的上边，你会看到一些“故事”卡片或者一个最近应用程序列表。而在在该主屏幕下边，你会看到一个类似于 Google Now 的建议列表。
 
