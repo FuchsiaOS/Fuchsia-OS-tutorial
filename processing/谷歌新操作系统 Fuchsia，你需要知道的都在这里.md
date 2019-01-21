@@ -44,4 +44,4 @@ Fuchsia有一套相较于 Android 更为健壮的安全特性，软件内置了�
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
 原作者：Joe Osborne； 译者：[Hzcyf](https://github.com/Hzcyf) ；校对：[bootingman](https://github.com/bootingman)  
 原文链接：[DigitalTrends：Google’s Fuchsia OS: Everything you need to know](https://www.digitaltrends.com/mobile/google-fuchsia-os-news/)
-本文链接：https://fuchsia-china.com/google-fuchsia-os-rumors/
+本文链接：[ https://fuchsia-china.com/fuchsia-you-need-to-know/]( https://fuchsia-china.com/fuchsia-you-need-to-know/)
