@@ -28,7 +28,8 @@ Fuchsia OS 中文社区
 * [x] [简述 Fuchsia 操作系统的四层结构设计](https://fuchsia-china.com/the-4-layers-of-fuchsia/)
 * [x] []()
 
-### 重要报道列表
+### 重要报道
+收录全球重要媒体关于 Fuchsia 的报道，路径在[story](https://github.com/FuchsiaOS/Fuchsia-OS-tutorial/tree/master/story)
 
 * [x] Bloomberg：[彭博社：代号“Fuchsia”，Google 正在悄悄开发 Android 的继任操作系统](https://fuchsia-china.com/bloomberg-google-fuchsia-android/)
 * [x] TechRadar：[Google Fuchsia OS 发布日期，新闻与那些漫天遍野的传言](https://fuchsia-china.com/google-fuchsia-os-rumors/)
