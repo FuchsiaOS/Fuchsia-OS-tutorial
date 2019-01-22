@@ -28,11 +28,11 @@ Fuchsia OS 中文社区
 * [x] [简述 Fuchsia 操作系统的四层结构设计](https://fuchsia-china.com/the-4-layers-of-fuchsia/)
 * [x] []()
 
-### 重要报道列表（待翻译）
+### 重要报道列表
 
-* [x] Bloomberg：[Project ‘Fuchsia’: Google Is Quietly Working on a Successor to Android](https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism)
-* [x] TechRadar：[Google Fuchsia release date, news and rumors](https://www.techradar.com/sg/news/google-fuchsia)
-* [x] DigitalTrends：[Google’s Fuchsia OS: Everything you need to know](https://www.digitaltrends.com/mobile/google-fuchsia-os-news/)
+* [x] Bloomberg：[彭博社：代号“Fuchsia”，Google 正在悄悄开发 Android 的继任操作系统](https://fuchsia-china.com/bloomberg-google-fuchsia-android/)
+* [x] TechRadar：[Google Fuchsia OS 发布日期，新闻与那些漫天遍野的传言](https://fuchsia-china.com/google-fuchsia-os-rumors/)
+* [x] DigitalTrends：[关于 Google 的新操作系统 Fuchsia OS，你需要知道的都在这里](https://fuchsia-china.com/fuchsia-you-need-to-know/)
 * [x] ZDNET：[Google Fuchsia: Here's what the NSA knows about it](https://www.zdnet.com/article/google-fuchsia-heres-what-the-nsa-knows-about-it/)
 
 ### 翻译列表
