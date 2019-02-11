@@ -78,3 +78,9 @@ Fuchsia最终会意味着Android和Chrome的终结吗？在名义上，这确实
 最终结果可能会在今年晚些时候的预览版或2019年的可购买的设备中看到，这将是谷歌最担心的一个平台。借助Fuchsia，Google将能够同时向所有版本推送新的更新和功能，从而简化支持以及用户使用。
 
 有了Fuchsia，谷歌将成为微软和苹果公司的一个更强大的敌人，这对Android和Chromebook用户来说是一个非常诱人的选择。谁知道呢，或许这足以让人们从微软和Apple产品阵营中投入Fuchsia的怀抱。
+
+***
+本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
+原作者：Joe Osborne； 译者：[Arktische](https://github.com/Arktische) ；校对：[bootingman](https://github.com/bootingman)      
+原文链接：https://www.techradar.com/news/google-fuchsia        
+本文链接：https://fuchsia-china.com/google-fuchsia-os-rumors/
