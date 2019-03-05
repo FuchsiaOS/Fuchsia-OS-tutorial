@@ -35,10 +35,10 @@ Fuchsia OS 中文社区
 * [x] TechRadar：[Google Fuchsia OS 发布日期，新闻与那些漫天遍野的传言](https://fuchsia-china.com/google-fuchsia-os-rumors/)
 * [x] DigitalTrends：[关于 Google 的新操作系统 Fuchsia OS，你需要知道的都在这里](https://fuchsia-china.com/fuchsia-you-need-to-know/)
 * [x] ZDNET：[Google Fuchsia: Here's what the NSA knows about it](https://www.zdnet.com/article/google-fuchsia-heres-what-the-nsa-knows-about-it/)
+* [x] 9To5Google：[Fuchsia OS 遇见 Chrome ——至少是一个基本的Chromium版本](https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/)
 
 ### 翻译列表
  - https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/
- - https://9to5google.com/2018/09/17/fuchsia-os-meet-chromium-video/
  - https://9to5google.com/2018/05/11/fuchsia-friday-fidl-is-the-rosetta-stone-of-fuchsia/
  - https://9to5google.com/2018/02/09/fuchsia-friday-entities/
  - https://9to5google.com/2018/04/06/fuchsia-friday-graphics-gaming-and-vr-oh-my/
