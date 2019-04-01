@@ -28,24 +28,29 @@
 ![](https://9to5google.com/wp-content/uploads/sites/4/2018/02/struts-suggestion.png)
 
 <!-- This functionality isn’t just limited to specific apps like YouTube though. Your browser may also have the ability to pass entities from web pages to Fuchsia. From the documentation: -->
-不过，这一功能并不仅限于YouTube等特定应用。您的浏览器还可以将实体从web页面传递到Fuchsia。文档:
+不过，这一功能并不仅限于YouTube等特定应用。您的浏览器还可以将实体从web页面传递到Fuchsia。
+
+文档:
 
 <!-- >This is the set of scripts used to extract entities from web pages. They are injected into web pages loaded by the web view and extract semantic information that can be used to launch modules related to the web content. -->
-> 这是一组用于从web页面中提取实体的脚本。它们被注入到web视图加载的web页面中，并提取可用于启动与web内容相关的模块的语义信息。
->This is the set of scripts used to extract entities from web pages. They are injected into web pages loaded by the web view and extract semantic information that can be used to launch modules related to the web content.
+> 这是一组用来从web页面中提取实体的脚本。它们被注入到被web view所加载的web页面中，并提取可用于启动与web内容相关的模块的语义信息。
 
-Imagine you’re planning a weekend trip to Memphis on your favorite travel booking site. Interested to see if there’s anything to do while you’re in town, you open up your Now Feed. Sitting pretty amongst your suggestions, courtesy of Music and SongKick, is a link to upcoming concerts near the specific hotel you’re looking at.
+<!-- Imagine you’re planning a weekend trip to Memphis on your favorite travel booking site. Interested to see if there’s anything to do while you’re in town, you open up your Now Feed. Sitting pretty amongst your suggestions, courtesy of Music and SongKick, is a link to upcoming concerts near the specific hotel you’re looking at. -->
+想象一下，你正在你最喜欢的旅游预订网站上计划周末去孟菲斯旅行。你打开你的Now Feed，看看在那里有哪些你感兴趣的事情可以去尝试。在Music和SongKick的帮助下，在给你的推荐中有一个有趣的链接，可以链接到你正在查看的特定酒店附近即将举行的音乐会。
 
 ![](https://9to5google.com/wp-content/uploads/sites/4/2018/02/peabody-suggestion.png)
 
-And this only scratches the surface of what apps will be able to do as they become more connected with the Assistant — the sky is the limit!
+<!-- And this only scratches the surface of what apps will be able to do as they become more connected with the Assistant — the sky is the limit! -->
+而这仅仅是应用程序和Assistent配合下最浅层的应用——在这之上有无限的可能性！
 
-For some more info about how Fuchsia is able to make these experiences possible, check out our deep dive into the Maxwell system.
+<!-- For some more info about how Fuchsia is able to make these experiences possible, check out our deep dive into the Maxwell system. -->
+要了解更多关于Fuchsia如何实现这种体验的信息的话，请查看我们对Maxwell系统的深入研究。
 
-Let us know in the comments how entities might be useful to your workflow.
+<!-- Let us know in the comments how entities might be useful to your workflow. -->
+请在评论中让我们知道实体是否对您的工作流程有所帮助。
 
 ***
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
-原作者：Kyle Bradshaw； 译者：（替换为译者名字和作者地址）；校对： （替换为译者名字和作者地址）       
+原作者：Kyle Bradshaw； 译者：[AlexLixin](https://github.com/AlexLixin)；校对： （替换为译者名字和作者地址）       
 原文链接：https://9to5google.com/2018/02/09/fuchsia-friday-entities/       
 本文链接：https://fuchsia-china.com/×××（发布后替换）
