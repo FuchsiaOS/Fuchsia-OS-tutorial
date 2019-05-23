@@ -1,5 +1,5 @@
 
-Fuchsia Friday：Flutter是如何给Fuchsia铺平道路的（还有我们的第一个Fuchsia app！）
+#Fuchsia Friday：Flutter是如何给Fuchsia铺平道路的（还有我们的第一个Fuchsia app！）
 Kyle Bradshaw
 - 3/2/2018 17:29
 ![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/03/fuchsia-friday-Flutter.png)
@@ -35,7 +35,7 @@ Flutter 是一个开源、跨平台的移动应用开发框架。它现在支持
 
 当然，Fuchsia还有一些可以丰富您的体验的特定功能（请参阅我们的实体细分中的一个例子），甚者，在Fuchsia发布之前，就已经有数百个兼容的应用程序以备将来使用了。这样一来，人们很容易对Flutter感兴趣。如果你想了解更多，并想赢在Fuchsia的起跑线上的话，推荐你看看Flutter的入门指南。
 
-Fuchsia Friday是一个新的系列报道，我们将深入研究Fuchsia源代码，并解释操作系统的当前状态可能对成品意味着什么。本文中的所有信息都是基于可用信息的推测，在将来可能会发生更改。
+*Fuchsia Friday是一个新的系列报道，我们将深入研究Fuchsia源代码，并解释操作系统的当前状态可能对成品意味着什么。本文中的所有信息都是基于可用信息的推测，在将来可能会发生更改。*
 ***
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
 原作者：Kyle Bradshaw； 译者：[firecckk](https://github.com/firecckk)；校对： [HugoFun](https://github.com/HugoFun)       
