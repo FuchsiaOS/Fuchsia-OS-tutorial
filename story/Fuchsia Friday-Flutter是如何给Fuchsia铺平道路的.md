@@ -40,4 +40,4 @@ Flutter 是一个开源、跨平台的移动应用开发框架。它现在支持
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
 原作者：Kyle Bradshaw； 译者：[firecckk](https://github.com/firecckk)；校对： [HugoFun](https://github.com/HugoFun)       
 原文链接：https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/        
-本文链接：https://fuchsia-china.com/×××（发布后替换）
+本文链接：https://fuchsia-china.com/how-flutter-is-paving-the-way-for-fuchsia/
