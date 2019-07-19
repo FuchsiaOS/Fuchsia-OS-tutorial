@@ -16,6 +16,6 @@
 
 ***
 本文由[Fuchsia OS 中文社区出品](https://fuchsia-china.com)翻译出品               
-原作者： Mrinmoy； 译者：[hzcyf](https://github.com/hzcyf)；校对： [HugoFun](https://github.com/HugoFun)
+原作者： Mrinmoy； 译者：[hzcyf](https://github.com/hzcyf)；校对： [HugoFun](https://github.com/HugoFun)      
 原文链接：[https://droidjournal.com/google-finally-talks-about-its-mysterious-fuchsia-os/3411](https://droidjournal.com/google-finally-talks-about-its-mysterious-fuchsia-os/3411)              
 本文链接：[https://fuchsia-china.com/google-finally-talks-about-its-mysterious-fuchsia-os](https://fuchsia-china.com/google-finally-talks-about-its-mysterious-fuchsia-os)
